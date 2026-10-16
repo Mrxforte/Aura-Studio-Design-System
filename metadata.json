@@ -1,0 +1,6 @@
+{
+  "name": "Aura Studio",
+  "description": "Professional Photoshop-inspired AI photo, video, and design studio powered by Aura AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
